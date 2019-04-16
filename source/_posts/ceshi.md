@@ -1,3 +1,3 @@
 ---
-title:ce shi 
+title:ce
 ---
